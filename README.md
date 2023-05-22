@@ -1,7 +1,9 @@
 # activiz_basic
 basic learing of activiz
 
-source：discrete points and scalars
+data：vtkPoints    scalars   vtkStripper vtkCellArray vtkDataArray  vtkUnstructuredGrid 
 
-filter：contourFilter and 
+filter：contourFilter  vtkCellDataToPointData 
+
+mapper：vtkLabeledDataMapper  surfaceMapper  
 

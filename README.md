@@ -1,5 +1,5 @@
 # activiz_basic
-# point_vs_cell  pointscalar vs cellscalar
+## point_vs_cell  pointscalar vs cellscalar
 basic learing of activiz
 
 data：vtkPoints    scalars   vtkStripper vtkCellArray vtkDataArray  vtkUnstructuredGrid 
